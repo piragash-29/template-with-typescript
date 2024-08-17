@@ -30,8 +30,15 @@
     "react-test-renderer": "18.3.1",
     "typescript": "5.0.4"
   },
-  "engines": {
-    "node": ">=18"
-  },
-  "packageManager": "yarn@3.6.4"
+  "jest": {
+    "preset": "react-native",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  }
 }
