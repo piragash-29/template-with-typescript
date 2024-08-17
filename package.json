@@ -1,0 +1,25 @@
+{
+  "name": "template-typescript",
+  "version": "0.0.1",
+  "description": "React Native template for a quick start with TypeScript.",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piragash-29/template-with-typescript.git"
+  },
+  "keywords": [
+    "react-native template"
+  ],
+  "author": "Piragash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piragash-29/template-with-typescript.git/issues"
+  },
+  "homepage": "https://github.com/piragash-29/template-with-typescript.git#readme"
+}
